@@ -6,4 +6,3 @@
 - CSS
 - Normalize.css
 - SVG sprites
--
